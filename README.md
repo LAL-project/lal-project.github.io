@@ -16,5 +16,5 @@ If you want to build LAL on your machine from sources, or make changes, you are 
 
 Documentation is available online in [doxygen](https://doxygen.nl/index.html) format for every release of LAL.
 
-- Version [24.10](24.10/documentation_doxygen/html/index.html)
+- Version [24.10](24.10/documentation/doxygen/html/index.html)
 - Version [23.01](23.01/documentation/doxygen/html/index.html)
