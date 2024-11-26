@@ -18,3 +18,4 @@ Documentation is available online in [doxygen](https://doxygen.nl/index.html) fo
 
 - Version [24.10](24.10/documentation/doxygen/html/index.html)
 - Version [23.01](23.01/documentation/doxygen/html/index.html)
+- Version [21.07](21.07/documentation/doxygen/html/index.html)
